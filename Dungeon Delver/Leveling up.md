@@ -1,0 +1,1 @@
+Leveling up in the normal sense doesn't exist, instead there is a skills system, where as you perform actions you get better at said actions. 
