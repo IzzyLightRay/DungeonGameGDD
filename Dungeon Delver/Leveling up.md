@@ -1,1 +1,8 @@
-Leveling up in the normal sense doesn't exist, instead there is a skills system, where as you perform actions you get better at said actions. 
+Leveling up in the normal sense doesn't exist, instead there is a skills system, where as you perform actions you get better at said actions. The players skill would be tracked by the quest givers in town, such as the Island Lord or the Guild manager. 
+
+Available skills would be available to all players, but depending on class, and race on occasions, certain skills are irrelevant, or just not supper necessary. 
+
+A list of example skills and what would contribute to them, or what bonuses they would provide. Certain races and classes would give a higher starting point and cap for skills. 
+- Strength - Strength would be increased by carrying heavy items or having a heavier load in terms of armor and gear, strength would allow for harder strikes with most melee weapons and give a larger equipment load on top of reducing the movement penalty of heavy items. 
+- Dexterity - Dexterity would be gained by performing actions like climbing surface, jumping around, and attacking with finesse weapons like rapiers, whips, daggers, and bows. Dexterity would give less [[endurance]] drain while dodging, jumping, walking/running on rough terrain, and attacking, while also giving better accuracy and damage with finesse weapons. 
+- Endurance - [[endurance]] will be better explained in its own page, but as a TLDR, endurance is the stamina system as well as the "we've been walking for a while and I need to take a break to rest, eat, and/or sleep." Endurance will be influenced by a lot of things, but the skill will influence how long you can go without rest and how much will be recharged upon resting. 
